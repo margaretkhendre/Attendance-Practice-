@@ -9,5 +9,8 @@ In this brief analysis,the resources labled with the number 7 aim to calculate t
 The resources labeled with the number 8 aim to create a graph shoing K-12 enrollment over the last decade by Metro RESA school district.
 - Tableau isused to display the final graph in a neat and easy to read format
 
+![<img width="702" alt="Screenshot 2025-04-08 at 2 49 42 PM" src="https://github.com/user-attachments/assets/05b6c2b1-95a5-4163-94f3-ba98c58a473d" />
+
+
 _Tools used_:
 Tableau and SQL
